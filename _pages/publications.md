@@ -1,22 +1,22 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
-# redirect_from: 
-#   - /publications/
+redirect_from: 
+  - /publications/
 ---
 {% include base_path %}
 
-<!-- > *If you know exactly what you are going to do,*\
+> *If you know exactly what you are going to do,*\
 > *what is the point of doing it?*\
-> ***Pablo Picasso*** -->
+> ***Pablo Picasso***
 
-<!-- Publications
+Publications
 ======
-The full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en). -->
+The full list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en).
 
-{% if page.author and site.data.authors[page.author] %}
+<!-- {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
@@ -42,7 +42,7 @@ The full list of my publications can be found on [Google Scholar](https://schola
 {% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 <!-- Patents
 ======
 Estimation apparatus, estimation method, and non-transitory computer readable medium. [WO2021019634A1](https://patentimages.storage.googleapis.com/cf/ac/b0/8ce8f37ef4ba5c/WO2021019634A1.pdf)

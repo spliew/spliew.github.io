@@ -1,5 +1,5 @@
 ---
-title: "Effects of QCD bound states on dark matter relic abundance"
+title: "Adversarial Robustness for Face Recognition: How to Introduce Ensemble Diversity among Feature Extractors?"
 collection: publ_workshops
 permalink: /publication/2021-1-ensemble
 # note: 'To appear'

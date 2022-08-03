@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from googlesearch import search
 
 
-url = 'https://icml.cc/Conferences/2021/AcceptedPapersInitial'
+url = 'https://icml.cc/Conferences/2022/AcceptedPapersInitial'
 response = get(url)
 
 html_soup = BeautifulSoup(response.text, 'html.parser')

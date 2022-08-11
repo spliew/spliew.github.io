@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KQL8tB8AAAAJ&hl=en"
   email            : 
-  researchgate     : # "https://www.researchgate.net/profile/Alberto_Maria_Metelli"
+  researchgate     : # "https://www.researchgate.net/profile/"
   uri              :
   bitbucket        :
   codepen          :
@@ -106,24 +106,24 @@ author:
   orcid            : "https://orcid.org/0000-0003-2419-2505"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users//username
   steam            :
   tumblr           :
-  twitter          : # "alberto_metelli"
+  twitter          : # ""
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        : 
-  academicpage     : # "https://www.deib.polimi.it/eng/people/details/926910"
+  academicpage     : # "https://www./eng/people/details/"
   dblp			   : "https://dblp.org/pid/259/7221.html"
-  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=57195947711"
-  semantic-scholar : # "https://www.semanticscholar.org/author/24717227"
-  publons		   : # "https://publons.com/researcher/3886166/alberto-maria-metelli/"
-  webofscience	   : # "https://www.webofscience.com/wos/author/record/16575442"
-  acm			   : # "https://dl.acm.org/profile/99659200718"
-  sciprofiles      : # "https://sciprofiles.com/profile/albertomaria-metelli"
-  loop             : # "https://loop.frontiersin.org/people/1541754/overview"
+  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId="
+  semantic-scholar :  "https://www.semanticscholar.org/author/Seng-Pei-Liew/102866201"
+  publons		   : # "https://publons.com/researcher//"
+  webofscience	   : # "https://www.webofscience.com/wos/author/record/"
+  acm			   : # "https://dl.acm.org/profile/"
+  sciprofiles      : # "https://sciprofiles.com/profile/"
+  loop             : # "https://loop.frontiersin.org/people//overview"
 
 
 # Reading Files

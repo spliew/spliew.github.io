@@ -14,7 +14,7 @@ In my past life, I was a particle physicist. I received my Ph.D. in theoretical 
 Research Interests
 ---
 My recent interests lie in the security and privacy issues of machine learning.
-I am also interested in reinforcement learning, statistics, physics and mathematics in general.
+I am also interested in statistics, theoretical computer science, physics and mathematics in general.
 
 Education
 ---
@@ -24,6 +24,7 @@ Education
 
 Main Awards
 ---
+* Recipient of "[DBSJ Kambayashi Young Researcher Award](https://dbsj.org/en/overview/awards/)" 
 * Recipient of "[Marie Skłodowska-Curie ESR Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/)" 
 * Recipient of "[JSPS (Japan Society for the Promotion of Science) Research Fellowship for Young Scientists](https://www.jsps.go.jp/english/)"
 * Recipient of "[MEXT Scholarship](https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1330944.htm)"

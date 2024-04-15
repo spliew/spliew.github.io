@@ -13,8 +13,8 @@ In my past life, I was a particle physicist. I received my Ph.D. in theoretical 
 
 Research Interests
 ---
-My recent interests lie in the security and privacy issues of machine learning.
-I am also interested in statistics, theoretical computer science, physics and mathematics in general.
+My current interests lie in training large language models.
+I am also interested in security and privacy issues of machine learning, statistics, theoretical computer science, physics and mathematics in general.
 
 Education
 ---

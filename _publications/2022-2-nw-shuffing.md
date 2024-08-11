@@ -31,7 +31,7 @@ Recently, it is shown that shuffling can amplify the central differential privac
 Motivated by these practical considerations, we rethink the shuffle model to relax the assumption of requiring a centralized, trusted shuffler. We introduce network shuffling, a decentralized mechanism where users exchange data in a random-walk fashion on a network/graph, as an alternative of achieving privacy amplification via anonymity. We analyze the threat model under such a setting, and propose distributed protocols of network shuffling that is straightforward to implement in practice. Furthermore, we show that the privacy amplification rate is similar to other privacy amplification techniques such as uniform shuffling. To our best knowledge, among the recently studied intermediate trust models that leverage privacy amplification techniques, our work is the first that is not relying on any centralized entity to achieve privacy amplification.
  <br> 
 
- [[Link](https://doi.org/10.1145/3514221.3526162){:target="_blank"}][[ArXiv](https://arxiv.org/abs/2204.03919){:target="_blank"}][[Slide](/files/slides_sigmod2022.pdf){:target="_blank"}][[BibTeX](/files/bibtex/liew2022network.bib){:target="_blank"}]
+ [[Link](https://doi.org/10.1145/3514221.3526162){:target="_blank"}][[ArXiv](https://arxiv.org/abs/2204.03919){:target="_blank"}][[Slide](/files/slides_sigmod2022.pdf){:target="_blank"}][[Video](https://www.youtube.com/watch?v=YTM5J2eE8Q0){:target="_blank"}][[BibTeX](/files/bibtex/liew2022network.bib){:target="_blank"}]
 
 <pre> @article{liew2022network,
   author    = {Seng Pei Liew and

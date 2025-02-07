@@ -35,6 +35,8 @@ author_profile: true
 {% endif %}
 {% endfor %} -->
 
+<h3>Note: Please check Google Scholar for latest publication</h3>
+
 <h2>International Conference Papers</h2>
 {% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}

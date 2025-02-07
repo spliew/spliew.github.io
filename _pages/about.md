@@ -16,6 +16,10 @@ Research Interests
 My current interests lie in training large language models.
 I am also interested in security and privacy issues of machine learning, statistics, theoretical computer science, physics and mathematics in general.
 
+News
+---
+* New preprint available: [Scaling Laws for Upcycling Mixture-of-Experts Language Models](https://arxiv.org/abs/2502.03009)
+
 Education
 ---
 * Ph.D. in Physics, the University of Tokyo, 2017

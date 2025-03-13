@@ -14,7 +14,9 @@ authors: 'Ryo Shirai, Ryo Imai, Seng Pei Liew, Daichi Amagata, Tsubasa Takahashi
 ---
 
 Abstract  
+ <br> 
 This paper addresses the problem of visited store estimation, which estimates the stores where a given user visited from GPS data. Because of the inherent measurement errors in GPS and the presence of multiple stores within the error range, accurately identifying the visited stores is challenging. A simple baseline estimation approach associates GPS data with check-in logs and learns the features during the user’s stay. This approach relies mainly on check-in logs, i.e., positive data, preventing precision (false positive rate) evaluations. Therefore, we propose a visited store estimation model that considers both precision and recall. We use the stores existing in the error ranges of GPS data as unlabeled data. Our proposed model is trained by incorporating unlabeled data and using the features we design. We introduce a new metric, namely the category-aware PUF score, which is an appropriate indicator for estimating precision in our problem setting. We conduct experiments on real-world data, and the results demonstrate that our proposed model achieves high recall and category-aware PUF scores.  
+ <br> 
 
 [[Link](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_28){:target="_blank"}][[BibTeX](/files/bibtex/shirai2024.bib){:target="_blank"}] 
 

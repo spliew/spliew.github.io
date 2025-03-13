@@ -10,48 +10,24 @@ date: 2024-09-01
 venue: 'International Conference on Database Systems for Advanced Applications (DASFAA)'
 # paperurl: 'https://doi.org/10.1145/3514221.3526162'
 pubtype: 'conferences'
-authors: ' 
-Ryo Shirai
-,
-Ryo Imai
-,
-Seng Pei Liew
-,
-Daichi Amagata
-,
-Tsubasa Takahashi
-,
-Takahiro Hara'
+authors: 'Ryo Shirai, Ryo Imai, Seng Pei Liew, Daichi Amagata, Tsubasa Takahashi, Takahiro Hara'
 ---
-Abstract
- <br> 
-This paper addresses the problem of visited store estimation, which estimates the stores where a given user visited from GPS data. Because of the inherent measurement errors in GPS and the presence of multiple stores within the error range, accurately identifying the visited stores is challenging. A simple baseline estimation approach associates GPS data with check-in logs and learns the features during the user’s stay. This approach relies mainly on check-in logs, i.e., positive data, preventing precision (false positive rate) evaluations. Therefore, we propose a visited store estimation model that considers both precision and recall. We use the stores existing in the error ranges of GPS data as unlabeled data. Our proposed model is trained by incorporating unlabeled data and using the features we design. We introduce a new metric, namely the category-aware PUF score, which is an appropriate indicator for estimating precision in our problem setting. We conduct experiments on real-world data, and the results demonstrate that our proposed model achieves high recall and category-aware PUF scores.
- <br> 
 
- [[Link](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_28){:target="_blank"}]
+Abstract  
+This paper addresses the problem of visited store estimation, which estimates the stores where a given user visited from GPS data. Because of the inherent measurement errors in GPS and the presence of multiple stores within the error range, accurately identifying the visited stores is challenging. A simple baseline estimation approach associates GPS data with check-in logs and learns the features during the user’s stay. This approach relies mainly on check-in logs, i.e., positive data, preventing precision (false positive rate) evaluations. Therefore, we propose a visited store estimation model that considers both precision and recall. We use the stores existing in the error ranges of GPS data as unlabeled data. Our proposed model is trained by incorporating unlabeled data and using the features we design. We introduce a new metric, namely the category-aware PUF score, which is an appropriate indicator for estimating precision in our problem setting. We conduct experiments on real-world data, and the results demonstrate that our proposed model achieves high recall and category-aware PUF scores.  
 
-<pre> @InProceedings{10.1007/978-981-97-5575-2_28,
-author="Shirai, Ryo
-and Imai, Ryo
-and Liew, Seng Pei
-and Amagata, Daichi
-and Takahashi, Tsubasa
-and Hara, Takahiro",
-editor="Onizuka, Makoto
-and Lee, Jae-Gil
-and Tong, Yongxin
-and Xiao, Chuan
-and Ishikawa, Yoshiharu
-and Amer-Yahia, Sihem
-and Jagadish, H. V.
-and Lu, Kejing",
-title="Estimating Visited Stores Through Positive-Unlabeled Learning",
-booktitle="Database Systems for Advanced Applications",
-year="2024",
-publisher="Springer Nature Singapore",
-address="Singapore",
-pages="377--389",
-abstract="This paper addresses the problem of visited store estimation, which estimates the stores where a given user visited from GPS data. Because of the inherent measurement errors in GPS and the presence of multiple stores within the error range, accurately identifying the visited stores is challenging. A simple baseline estimation approach associates GPS data with check-in logs and learns the features during the user's stay. This approach relies mainly on check-in logs, i.e., positive data, preventing precision (false positive rate) evaluations. Therefore, we propose a visited store estimation model that considers both precision and recall. We use the stores existing in the error ranges of GPS data as unlabeled data. Our proposed model is trained by incorporating unlabeled data and using the features we design. We introduce a new metric, namely the category-aware PUF score, which is an appropriate indicator for estimating precision in our problem setting. We conduct experiments on real-world data, and the results demonstrate that our proposed model achieves high recall and category-aware PUF scores.",
-isbn="978-981-97-5575-2"
+[[Link](https://link.springer.com/chapter/10.1007/978-981-97-5575-2_28){:target="_blank"}]
+
+```bibtex
+@INPROCEEDINGS{10.1007/978-981-97-5575-2_28,
+  author="Shirai, Ryo and Imai, Ryo and Liew, Seng Pei and Amagata, Daichi and Takahashi, Tsubasa and Hara, Takahiro",
+  editor="Onizuka, Makoto and Lee, Jae-Gil and Tong, Yongxin and Xiao, Chuan and Ishikawa, Yoshiharu and Amer-Yahia, Sihem and Jagadish, H. V. and Lu, Kejing",
+  title="Estimating Visited Stores Through Positive-Unlabeled Learning",
+  booktitle="Database Systems for Advanced Applications",
+  year="2024",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="377--389",
+  abstract="This paper addresses the problem of visited store estimation, which estimates the stores where a given user visited from GPS data. Because of the inherent measurement errors in GPS and the presence of multiple stores within the error range, accurately identifying the visited stores is challenging. A simple baseline estimation approach associates GPS data with check-in logs and learns the features during the user's stay. This approach relies mainly on check-in logs, i.e., positive data, preventing precision (false positive rate) evaluations. Therefore, we propose a visited store estimation model that considers both precision and recall. We use the stores existing in the error ranges of GPS data as unlabeled data. Our proposed model is trained by incorporating unlabeled data and using the features we design. We introduce a new metric, namely the category-aware PUF score, which is an appropriate indicator for estimating precision in our problem setting. We conduct experiments on real-world data, and the results demonstrate that our proposed model achieves high recall and category-aware PUF scores.",
+  isbn="978-981-97-5575-2"
 }
-</pre>

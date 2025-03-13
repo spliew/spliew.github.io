@@ -1,7 +1,7 @@
 ---
 title: "Estimating Visited Stores Through Positive-Unlabeled Learning"
 collection: publ_conferences
-permalink: /publication/2024-1-dasfaa
+# permalink: /publication/2024-1-dasfaa
 # note: 'To appear'
 # acceptance: 'Acceptance rate: 1349/9020 (15.0%)'
 # rankCORE: 'CORE 2021: A*'

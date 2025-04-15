@@ -18,7 +18,8 @@ I am also interested in security and privacy issues of machine learning, statist
 
 News
 ---
-* New preprint available: [Scaling Laws for Upcycling Mixture-of-Experts Language Models](https://arxiv.org/abs/2502.03009)
+* April 2025: New preprint available: [Accelerating Differentially Private Federated Learning via Adaptive Extrapolation](https://arxiv.org/abs/2504.09850)
+* February 2025: New preprint available: [Scaling Laws for Upcycling Mixture-of-Experts Language Models](https://arxiv.org/abs/2502.03009)
 
 Education
 ---

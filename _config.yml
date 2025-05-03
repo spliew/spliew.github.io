@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Seng Pei Liew"
-  avatar           : "prof2.jpg"
+  avatar           : "IMG_8072.jpg"
   bio              : "Research Scientist<br>Machine Learning<br>Physics"
   location         : "Tokyo, Japan"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users//username
   steam            :
   tumblr           :
-  twitter          : # ""
+  twitter          : "https://x.com/sp_amva4np"
   vine             :
   weibo            :
   xing             :

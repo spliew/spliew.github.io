@@ -19,7 +19,7 @@ I am also interested in security and privacy issues of machine learning, statist
 News
 ---
 * May 2025: Our paper has been accepted to **ICML 2025**! Preprint available [here](https://arxiv.org/abs/2502.03009).
-* April 2025: New preprint available: [FedDuA: Doubly Adaptive Federated Learning](https://arxiv.org/abs/2505.11126)
+* May 2025: New preprint available: [FedDuA: Doubly Adaptive Federated Learning](https://arxiv.org/abs/2505.11126)
 * April 2025: New preprint available: [Accelerating Differentially Private Federated Learning via Adaptive Extrapolation](https://arxiv.org/abs/2504.09850)
 
 Education

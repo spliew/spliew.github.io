@@ -37,7 +37,7 @@ author_profile: true
 
 <h3>Note: Please check Google Scholar for latest publication</h3>
 
-<h2>International Conference Papers</h2>
+<!-- <h2>International Conference Papers</h2>
 {% assign writtenYear = 'None' %}
 {% for post in site.publications reversed %}
 {% if post.pubtype == 'conferences' %}
@@ -75,7 +75,7 @@ author_profile: true
 {% endif %}
 {% include archive-single-pubs.html %}
 {% endif %}
-{% endfor %}
+{% endfor %}  -->
 
 <!-- <h2>International Conference Abstracts</h2>
 {% assign writtenYear = 'None' %}

@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: /about/
+  # - title: "About Me"
+  #   url: /about/
     
   - title: "Publications"
     url: /publications/    
@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/   
 
-  - title: "Extra Writings"
-    url: /writings/
+  # - title: "Extra Writings"
+  #   url: /writings/
   
   - title: "Contacts"
     url: /contacts/   

@@ -3,8 +3,8 @@ main:
   # - title: "About Me"
   #   url: /about/
     
-  - title: "Publications"
-    url: /publications/    
+  # - title: "Publications"
+  #   url: /publications/    
 
   # - title: "Teaching"
   #   url: /teaching/   
@@ -12,7 +12,7 @@ main:
   # - title: "Extra Writings"
   #   url: /writings/
   
-  - title: "Contacts"
-    url: /contacts/   
+  # - title: "Contacts"
+  #   url: /contacts/   
     
 

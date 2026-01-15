@@ -18,6 +18,7 @@ I am also interested in security and privacy issues of machine learning, statist
 
 News
 ---
+* January 2026: New prepreint available: [Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints](https://arxiv.org/abs/2601.08215)
 * October 2025: New preprint available: [From Acceleration to Saturation: Scaling Behavior of Bootstrapped Language Model Pretraining
 ](https://arxiv.org/abs/2510.06548)
 * September 2025: New preprint available: [Optimal Variance and Covariance Estimation under Differential Privacy in the Add-Remove Model and Beyond](https://arxiv.org/abs/2509.04919)

@@ -18,9 +18,9 @@ I am also interested in security and privacy issues of machine learning, statist
 
 News
 ---
+* January 2026: Two papers accepted to **AISTATS 2026**! 
 * January 2026: New preprint available: [Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints](https://arxiv.org/abs/2601.08215)
 * December 2025: Two papers accepted to [NeurIPS 2025 Workshop](https://sites.google.com/view/llm-eval-workshop)
-* September 2025: New preprint available: [From Acceleration to Saturation: Scaling Behavior of Bootstrapped Language Model Pretraining](https://arxiv.org/abs/2510.06548)
 
 Education
 ---

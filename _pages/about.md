@@ -40,4 +40,4 @@ Publication
 
 Contact
 ---
-Email:  `sengpei DOT liew AT sbintuitions DOT co DOT jp`
+Email:  `sengpei DOT liew AT gmail DOT com`

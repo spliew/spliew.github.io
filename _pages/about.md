@@ -18,7 +18,7 @@ I am also interested in security and privacy issues of machine learning, statist
 
 News
 ---
-* January 2026: Paper accepted to **PODS 2026**! Preprint available [here](https://arxiv.org/abs/2601.19154).
+* March 2026: Paper accepted to **PODS 2026**! Preprint available [here](https://arxiv.org/abs/2601.19154).
 * January 2026: Two papers accepted to **AISTATS 2026**!
 * January 2026: New preprint available: [Towards Principled Design of Mixture-of-Experts Language Models under Memory and Inference Constraints](https://arxiv.org/abs/2601.08215)
 

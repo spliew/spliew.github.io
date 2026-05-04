@@ -18,7 +18,7 @@ I am also interested in security and privacy issues of machine learning, statist
 
 News
 ---
-* April 2026: Paper accepted to **ICML 2026**!
+* April 2026: Paper accepted to **ICML 2026** Preprint available [here](https://arxiv.org/abs/2604.28032)!
 * March 2026: Paper accepted to **PODS 2026**! Preprint available [here](https://arxiv.org/abs/2601.19154).
 * January 2026: Two papers accepted to **AISTATS 2026**!
 
